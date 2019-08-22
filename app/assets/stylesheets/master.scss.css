@@ -1,0 +1,33 @@
+@import "bootstrap";
+
+body {
+	background: url(/assets/DnD.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-blend-mode: lighten;
+
+}
+
+h1, h2{
+	text-align: center;
+	color: white;
+	text-shadow: 2px 2px #ff0000;
+	font-size: 50px;
+}
+
+h3{
+	text-align: center;
+	color: white;
+	text-shadow: 2px 2px blue;
+	font-size: 20px;
+}
+
+.about{
+	text-align: center; 
+	font-size: 18px;
+	color: white;
+	font: bold;
+	text-shadow: #FFFFFF;
+}
