@@ -1,13 +1,7 @@
 @import "bootstrap";
 
 body {
-	background: url(/assets/DnD.png) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  background-blend-mode: lighten;
-
+  background: url('/assets/dark.png');
 }
 
 h1, h2{
