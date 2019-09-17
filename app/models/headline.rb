@@ -1,2 +1,4 @@
 class Headline < ApplicationRecord
+
+	
 end
