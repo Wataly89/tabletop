@@ -1,0 +1,9 @@
+<div class="booyeah-box col-10 offset-1">
+	<h1>Add a New Headline for our page</h1>
+	<%= simple_form_for @headline do |f| %>
+	   <%= f.input :quote %>
+	   <%= f.input :player %>
+	 </br>
+	   <%= f.submit 'Create', class: 'btn btn-primary' %>
+	 <% end %>
+</div>
